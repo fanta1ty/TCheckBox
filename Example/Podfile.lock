@@ -1,0 +1,16 @@
+PODS:
+  - TCheckBox (1.0.0)
+
+DEPENDENCIES:
+  - TCheckBox (from `../`)
+
+EXTERNAL SOURCES:
+  TCheckBox:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TCheckBox: 0be4ba8480c5468ee7839f0f06a8acae58833af5
+
+PODFILE CHECKSUM: 8cba33009f2a25d08fa9379f65f778f52267afe0
+
+COCOAPODS: 1.11.3
