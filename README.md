@@ -1,3 +1,5 @@
+![LOGO](https://github.com/fanta1ty/TCheckBox/blob/master/ScreenShot/Logo.png)
+
 # TCheckBox
 
 [![Swift 5.0](https://img.shields.io/badge/Swift-5.0-brightgreen)](https://developer.apple.com/swift/)
@@ -41,6 +43,8 @@ checkBox.contentLabel.text = "Hello TCheckBox...."
 checkBox.checkButton.isSelected = true
 checkBox.checkButton.isSelected = false
 ```
+
+![alt text](https://github.com/fanta1ty/TCheckBox/blob/master/ScreenShot/Screen%20Shot.png)
 
 ## Requirements
 - iOS 10.0 or later
