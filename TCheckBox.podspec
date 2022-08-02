@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = 'TCheckBox is developed to help you display check boxes and content in the fastest way without spending many lines of code'
   s.homepage         = 'https://github.com/fanta1ty/TCheckBox'
-  s.screenshots     = 'https://github.com/fanta1ty/TCheckBox/blob/master/ScreenShot/Screen%20Shot.png'
+  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fanta1ty' => 'thinhnguyen12389@gmail.com' }
   s.source           = { :git => 'https://github.com/fanta1ty/TCheckBox.git', :tag => s.version.to_s }
