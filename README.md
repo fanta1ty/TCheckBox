@@ -2,6 +2,8 @@
 
 # TCheckBox
 
+TCheckBox is developed to help you display check boxes and content in the fastest way without spending many lines of code
+  
 [![Swift 5.0](https://img.shields.io/badge/Swift-5.0-brightgreen)](https://developer.apple.com/swift/)
 [![Version](https://img.shields.io/cocoapods/v/TCheckBox.svg?style=flat)](https://cocoapods.org/pods/TCheckBox)
 [![License](https://img.shields.io/cocoapods/l/TCheckBox.svg?style=flat)](https://cocoapods.org/pods/TCheckBox)
