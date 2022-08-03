@@ -46,7 +46,7 @@ checkBox.checkButton.isSelected = true
 checkBox.checkButton.isSelected = false
 ```
 
-![alt text](https://github.com/fanta1ty/TCheckBox/blob/master/ScreenShot/Screen%20Shot.png)
+![til](https://github.com/fanta1ty/TCheckBox/blob/master/ScreenShot/Screen%20Shot.gif)
 
 ## Requirements
 - iOS 10.0 or later
