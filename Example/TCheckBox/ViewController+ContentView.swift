@@ -53,7 +53,7 @@ extension ViewController.ContentView {
         NSLayoutConstraint.activate([
             stackView.leadingAnchor.constraint(equalTo: leadingAnchor, constant: 24),
             stackView.trailingAnchor.constraint(equalTo: trailingAnchor, constant: -24),
-            stackView.topAnchor.constraint(equalTo: topAnchor)
+            stackView.topAnchor.constraint(equalTo: topAnchor, constant: 40)
         ])
     }
 }
